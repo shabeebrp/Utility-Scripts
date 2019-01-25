@@ -1,6 +1,6 @@
 //run the two following commands
 
-sudo apt-get autoremove open-vm-tools
-sudo apt-get install open-vm-tools-desktop
+1.sudo apt-get autoremove open-vm-tools   
+2.sudo apt-get install open-vm-tools-desktop
 
 //Don't forget to reboot
